@@ -1,1 +1,5 @@
 print("\nHola estudiantes")
+print("Bienvenidos a la clase de Python")
+print("Espero que disfruten aprendiendo a programar")
+print("¡Vamos a comenzar!")
+print("Recuerden practicar todos los días")
